@@ -1,5 +1,5 @@
 
-import Header from "./componentes/Header"
+import Header from "./componentes/Header";
 import SalesCard from "./componentes/SalesCard";
 
 
